@@ -53,7 +53,7 @@ section {
   background-color: hsl(300, 24%, 92%);
   border-radius: 10px;
 }
-.rating p {
+.rating h2 {
   display: inline;
   margin-left: 30px;
   font-size: 1.3rem;
