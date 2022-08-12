@@ -42,6 +42,7 @@ section {
   line-height: 1.5;
 }
 .top-two {
+  row-gap: 20px;
   width: 650px;
   display: flex;
   flex-direction: column;
@@ -138,6 +139,7 @@ blockquote {
   }
   .top-two {
     width: inherit;
+    row-gap: normal;
   }
   .rating {
     width: 90%;
