@@ -53,7 +53,7 @@ section {
   background-color: hsl(300, 24%, 92%);
   border-radius: 10px;
 }
-.rating h2 {
+.rating p {
   display: inline;
   margin-left: 30px;
   font-size: 1.3rem;
@@ -97,7 +97,7 @@ section {
   border-radius: 50%;
   margin-right: 20px;
 }
-.info p {
+.info h2 {
   flex-grow: 2;
   font-size: 1.3rem;
   font-weight: 500;
